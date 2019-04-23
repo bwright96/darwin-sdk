@@ -1,0 +1,10 @@
+Model.ipynb - Our jupyter notebook, where we tried to predict the rating of
+different school district. This notebook shows the cleaning and training of the
+data and building the model.
+
+2013-2016.xls - These excel files were used to train the model.
+
+test_data.csv - This data was used as the test set, which includes the 2016-2017 data.
+
+train_data.csv - We performed oversampling on this file using SMOTENC, this file
+is an aggregation of data from 2013-2016.
